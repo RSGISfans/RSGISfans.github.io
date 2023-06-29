@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Peijun Sun / Personal Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Peijun Sun"
 description              : &description "personal description"
 url                      : https://rsgisfans.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : @AgriSecurRsfans
 facebook:
   username               :
   app_id                 :
@@ -83,12 +83,12 @@ author:
   name             : "Peijun Sun"
   avatar           : "profile.png"
   bio              : "Food Security & Programming Languages"
-  location         : "Location"
+  location         : "Xi'an, Shaanxi, CHINA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Peijun-Sun?ev=hdr_xprf"
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@AgriSecurRsfans"
   vine             :
   weibo            :
   xing             :
